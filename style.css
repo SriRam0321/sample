@@ -1,0 +1,180 @@
+*{
+     margin:0;
+     padding:0;
+     box-sizing: border-box;
+}
+
+.container{
+	width:90%;
+	margin:0 auto;
+}
+
+.row{
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.col-1 {
+	width:8.33%;
+	padding:25px 15px;    	
+}
+
+.col-2 {
+	width:16.66%;
+	padding:25px 15px;    	
+}
+
+.col-3 {
+	width:25%;
+	padding:25px 15px;    	
+}
+
+.col-4 {
+	width:33.33%;
+	padding:25px 15px;    	
+}
+
+.col-5 {
+	width:41.66%;
+	padding:25px 15px;    	
+}
+
+.col-6 {
+	width:50%;
+	padding:25px 15px;    	
+}
+
+.col-7 {
+	width:58.33%;
+	padding:25px 15px;    	
+}
+
+.col-8 {
+	width:66.66%;
+	padding:25px 15px;    	
+}
+
+.col-9 {
+	width:75%;
+	padding:25px 15px;    	
+}
+
+.col-10 {
+	width:83.33%;
+	padding:25px 15px;    	
+}
+
+.col-11 {
+	width:91.66%;
+	padding:25px 15px;    	
+}
+
+.col-12{
+	width:100%;
+	padding:25px 15px;    	
+}
+
+#header{
+	
+	background-color:#ccc;
+	padding:30px 0px;
+}
+
+.mentor{
+	
+	background-color:white;
+	padding:20px 10px;
+	
+}
+.nav-bar{
+	
+	background-color:white;
+	padding:20px 10px;
+	
+}
+
+.sec1{
+    background-color:pink;	
+    padding:20px 0px;
+}
+
+.picture{
+	background-color:white;
+	height:50vh;
+}
+ .sec2{
+    background-color:#ccc;	
+    padding:20px 0px;
+}
+.picture2{
+	background-color:white;
+	height:50vh;
+}
+
+
+.sec3{
+
+    background-color:pink;	
+    padding:20px 0px;
+}
+.row1{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+
+
+.picture3{
+	justify-content:space-between;
+	background-color:white;
+	height:20vh;
+}
+
+
+.sec4{
+    background-color:#ccc;	
+    padding:20px 0px;
+}
+
+.picture4{
+	background-color:white;
+	height:50vh;
+}
+.picture5{
+	background-color:white;
+	height:35vh;
+}
+
+.sec5{
+    background-color:pink;	
+    padding:20px 0px;
+}
+
+.picture6{
+	background-color:white;
+	height:10vh;
+}
+
+.sec6{
+    background-color:#ccc;	
+    padding:20px 0px;
+}
+.picture0{
+	background-color:white;
+	height:20vh;
+}
+
+.picture7{
+	background-color:white;
+	height:60vh;
+}
+
+.sec7{
+    background-color:pink;	
+    padding:20px 0px;
+}
+
+.picture8{
+	background-color:white;
+	height:60vh;
+}
